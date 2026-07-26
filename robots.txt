@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://quweilai.github.io/hongtaoyinaa/sitemap.xml
